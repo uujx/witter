@@ -1,0 +1,22 @@
+.sidebar {
+    position: fixed;
+    width: 300px;
+    height: 100%;
+    text-align: center;
+}
+
+
+.option {
+    margin: 50px 0;
+}
+
+.option:hover {
+    background: lightblue;
+}
+
+/* 
+@media screen and (max-width: 1500px) {
+    .text {
+        display: none
+    }
+} */

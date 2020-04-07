@@ -1,0 +1,10 @@
+.Tweet {
+    width: 500px;
+    background: lightgray;
+    padding: 20px;
+    margin: 8px auto;
+}
+
+.Tweet:hover {
+    background: gray
+}
